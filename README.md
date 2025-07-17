@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gerred-mcpmc-badge.png)](https://mseep.ai/app/gerred-mcpmc)
+
 # MCPMC (Minecraft Model Context Protocol)
 
 [![npm version](https://badge.fury.io/js/@gerred%2Fmcpmc.svg)](https://badge.fury.io/js/@gerred%2Fmcpmc)
